@@ -82,3 +82,16 @@ p {
 .links:hover {
     background-color: blue;
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+.article:hover {
+    color: darkolivegreen;
+
+}
+
+a {
+    text-decoration: none;
+}
